@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/tprofile"
+        android:icon="@drawable/teachers"
+        android:title="Teacher's Profile" />
+    <item
+        android:id="@+id/sprofile"
+        android:icon="@drawable/student"
+        android:title="Student's Profile" />
+    <item
+        android:id="@+id/calender"
+        android:icon="@drawable/cal"
+        android:title="Calender" />
+    <item
+        android:id="@+id/achievements"
+        android:icon="@drawable/acheivement"
+        android:title="Achievements" />
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/about"
+        android:title="About Us" />
+    <item
+        android:id="@+id/ContactUs"
+        android:icon="@drawable/contact"
+        android:title="Contact Us" />
+    <item
+        android:id="@+id/Downloads"
+        android:icon="@drawable/download"
+        android:title="Downloads" />
+    </group>
+    
+
+</menu>
